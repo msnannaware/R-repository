@@ -1,9 +1,9 @@
 # SET THE WORKING DIRECTORY 
-setwd("C:\\Users\\Madhuri Nannaware\\Desktop\\stat 5474")
+setwd("folderpath")
 dat <- NULL
 
 # # read the data ##
-read <- paste("C:\\Users\\Madhuri Nannaware\\Desktop\\stat 5474\\HMEQ.csv", sep="")
+read <- paste("filepath\\*.csv", sep="")
 dat.i <- read.csv(read, sep=",")
 
 
