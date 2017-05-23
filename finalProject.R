@@ -1,9 +1,9 @@
 # SET THE WORKING DIRECTORY 
-setwd("C:\\Users\\Madhuri Nannaware\\Desktop\\stat 5474\\Final_Project")
+setwd("folderpath\Final_Project")
 dat <- NULL
 
 # # read the data ##
-read <- paste("C:\\Users\\Madhuri Nannaware\\Desktop\\stat 5474\\Final_Project\\german_credit.csv", sep="")
+read <- paste("filepath\german_credit.csv", sep="")
 
 
 dat.i <- read.csv(read, sep=",")
