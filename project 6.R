@@ -1,5 +1,5 @@
 # SET THE WORKING DIRECTORY 
-setwd("path")
+setwd("folder_path")
 install.packages("kernlab")
 
 library(kernlab)
