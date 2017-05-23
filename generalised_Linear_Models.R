@@ -1,5 +1,5 @@
 # SET THE WORKING DIRECTORY 
-setwd("C:\\Users\\Madhuri Nannaware\\Desktop\\stat 5474")
+setwd("folder_path")
 dat <- NULL
 
 
